@@ -1,0 +1,16 @@
+{
+  "name": "readingXML",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "fast-xml-parser": "^3.12.20",
+    "he": "^1.2.0",
+    "nodemon": "^1.19.1",
+    "xml2js": "^0.4.19"
+  }
+}
